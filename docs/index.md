@@ -39,7 +39,9 @@
 ## 💪 主要スキル
 
 <details>
-<summary><strong>クリックして展開</strong> - 詳細は <a href="./resume.pdf">JSON Resume</a> も参照</summary>
+<summary>
+<strong>クリックして展開</strong> - 詳細は <a href="./resume.pdf">JSON Resume</a> も参照
+</summary>
 
 - *フルスタック開発*: React.js/Vue.js/Nuxt.js、Laravel/Golang
   - Vue 3 Composition API + TypeScript習得済み
@@ -59,7 +61,9 @@
 ## 💼 経歴
 
 <details>
-<summary><strong>クリックして展開</strong> - 詳細は <a href="./resume.pdf">JSON Resume</a> も参照</summary>
+<summary>
+<strong>クリックして展開</strong> - 詳細は <a href="./resume.pdf">JSON Resume</a> も参照
+</summary>
 
 - 約4年間の受託開発経験（2021年4月〜）。フルスタック開発者として、フロントエンド（React.js、Vue.js、Nuxt.js）、バックエンド（Laravel、Golang）で6つのプロジェクトを担当
 - 2024年以降は大規模SaaSプロジェクトでコードレビュー・DevOps・セキュリティ改善を担当。オフショア開発チームとの協業経験有り（ブリッジSE、要件定義の約8割のチケットを作成）
@@ -73,7 +77,9 @@
 ![できること - 4つの強み](./diagrams/dekiru-koto-mindmap.svg)
 
 <details>
-<summary><strong>詳細を見る</strong></summary>
+<summary>
+<strong>詳細を見る</strong>
+</summary>
 
 <!--
   UX原則: User-Centered Headings - ユーザー（面接官）の疑問に直接答える見出し
@@ -135,7 +141,9 @@
 ![仕事の進め方 - 3つの方法論](./diagrams/shigoto-susume-kata-mindmap.svg)
 
 <details>
-<summary><strong>詳細を見る</strong></summary>
+<summary>
+<strong>詳細を見る</strong>
+</summary>
 
 <!--
   UX原則: Grouping - 関連トピックを論理的なセクションにグループ化
