@@ -32,14 +32,14 @@
   出典: Coda Technical Writing Style Guide (Managing/placing help docs)
 -->
 
-詳細な経歴・プロジェクト経験は [JSON Resume](../resume.pdf) をご覧ください。
+詳細な経歴・プロジェクト経験は [JSON Resume](./resume.pdf) をご覧ください。
 
 ---
 
 ## 💪 主要スキル
 
 <details>
-<summary><strong>クリックして展開</strong> - 詳細は <a href="../resume.pdf">JSON Resume</a> も参照</summary>
+<summary><strong>クリックして展開</strong> - 詳細は <a href="./resume.pdf">JSON Resume</a> も参照</summary>
 
 - *フルスタック開発*: React.js/Vue.js/Nuxt.js、Laravel/Golang
   - Vue 3 Composition API + TypeScript習得済み
@@ -59,7 +59,7 @@
 ## 💼 経歴
 
 <details>
-<summary><strong>クリックして展開</strong> - 詳細は <a href="../resume.pdf">JSON Resume</a> も参照</summary>
+<summary><strong>クリックして展開</strong> - 詳細は <a href="./resume.pdf">JSON Resume</a> も参照</summary>
 
 - 約4年間の受託開発経験（2021年4月〜）。フルスタック開発者として、フロントエンド（React.js、Vue.js、Nuxt.js）、バックエンド（Laravel、Golang）で6つのプロジェクトを担当
 - 2024年以降は大規模SaaSプロジェクトでコードレビュー・DevOps・セキュリティ改善を担当。オフショア開発チームとの協業経験有り（ブリッジSE、要件定義の約8割のチケットを作成）
