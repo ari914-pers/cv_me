@@ -1,0 +1,62 @@
+@startmindmap
+' --- スタイル設定 ---
+<style>
+mindmapDiagram {
+  node {
+    Padding 12
+    Margin 10
+    RoundCorner 0
+    MaximumWidth 200
+    LineColor #444444
+    FontName sans-serif
+    BackgroundColor white
+  }
+
+  ' PREP法要素の色定義
+  .story {
+    BackgroundColor #F9D058
+  }
+  .rule {
+    BackgroundColor #80D8FF
+  }
+  .example {
+    BackgroundColor #C1E699
+  }
+  .question {
+    BackgroundColor #FFAB91
+  }
+}
+</style>
+
+' --- ここからマッピング内容 ---
+
+* [Point] 💡 仕事の進め方 <<story>>
+
+** [Reason] 要件を分析し、\\n段階的に計画する <<rule>>
+*** [Example] 1,400行仕様書→8ノート → 扱いやすい単位に分解 <<example>>
+*** [Example] 5フェーズ実装計画策定 → 段階的な実装計画 <<example>>
+*** [Example] セキュリティファーストで権限制御を最優先 → リスクベース優先順位付け <<example>>
+*** [Point] 複雑要件を管理可能にし、実装リスクを最小化 <<question>>
+
+** [Reason] 根本原因を分析し、\\n体系的にアプローチする <<rule>>
+*** [Example] 4層分析（表層→直接→根本→システム的）→ 根本原因特定 <<example>>
+*** [Example] PlantUMLシーケンス図作成 → トランザクション境界特定 <<example>>
+*** [Example] PDF番号不整合問題の再発防止策策定 → システム的解決 <<example>>
+*** [Point] 根本原因を特定し、再発防止を実現 <<question>>
+
+** [Reason] 失敗から学び、\\n継続的に改善する <<rule>>
+*** [Example] デュアルバックエンド不具合を徹底分析 → 詳細な失敗分析 <<example>>
+*** [Example] チェックリスト更新・ワークフロー改善 → 4フェーズ改善レビュー <<example>>
+*** [Example] 測定可能なKPI設定・効果検証 → 継続的改善サイクル <<example>>
+*** [Point] 失敗を糧に品質とプロセスを継続的に向上 <<question>>
+
+' --- 凡例 (Legend) ---
+legend right
+  | 色 | PREP要素 | 意味 |
+  | <#F9D058> | **Point（結論）** (黄) | **主張・仕事の進め方** |
+  | <#80D8FF> | **Reason（理由）** (青) | **方法論・アプローチ** |
+  | <#C1E699> | **Example（具体例）** (緑)| **具体的手法（Context → Action → Result形式）** |
+  | <#FFAB91> | **Point（繰り返し）** (赤)| **Impact・効果** |
+endlegend
+
+@endmindmap

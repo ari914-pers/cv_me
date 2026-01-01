@@ -1,0 +1,12 @@
+# GitHub Pages Configuration
+
+# Theme (most common/default theme for GitHub Pages)
+theme: jekyll-theme-primer
+
+# Site Settings
+title: "有賀 信行 - Engineering Profile"
+description: "Software Engineer, Bridge SE - フロントエンドエンジニア採用面接対策プロフィール"
+author: "有賀 信行"
+
+# GitHub Pages defaults
+markdown: kramdown

@@ -1,0 +1,72 @@
+@startmindmap
+' --- スタイル設定 ---
+<style>
+mindmapDiagram {
+  node {
+    Padding 12
+    Margin 10
+    RoundCorner 0
+    MaximumWidth 200
+    LineColor #444444
+    FontName sans-serif
+    BackgroundColor white
+  }
+
+  ' PREP法要素の色定義
+  .story {
+    BackgroundColor #F9D058
+  }
+  .rule {
+    BackgroundColor #80D8FF
+  }
+  .example {
+    BackgroundColor #C1E699
+  }
+  .question {
+    BackgroundColor #FFAB91
+  }
+}
+</style>
+
+' --- ここからマッピング内容 ---
+
+* [Point] 💪 できること <<story>>
+
+left side
+
+** [Reason] 技術的リーダーシップ <<rule>>
+*** [Example] 470件Backlogチケット作成 → チーム保守性向上 <<example>>
+*** [Example] レビュー頻度1.5倍増（月平均10件）→ 品質保証プロセス強化 <<example>>
+*** [Example] 1,400行仕様書→8ノート・5フェーズ計画 → 実装計画明確化 <<example>>
+*** [Point] チーム保守性・実装計画・品質保証が向上 <<question>>
+
+** [Reason] コードレビュー・品質保証 <<rule>>
+*** [Example] PRレビュー600件/900件（70%）→ プロジェクト全体品質保証 <<example>>
+*** [Example] 最近100件100%カバレッジ → 不具合早期発見 <<example>>
+*** [Example] 平均8回/PR詳細レビュー・約8割最終承認 → ベストプラクティス浸透 <<example>>
+*** [Point] プロジェクト全体品質保証・不具合早期発見・ベストプラクティス浸透 <<question>>
+
+right side
+
+** [Reason] セキュリティファースト <<rule>>
+*** [Example] Trivy導入・運用 → セキュリティリスク早期検知 <<example>>
+*** [Example] MySQL 8.0.36 + Aurora 3.09アップグレード → 脆弱性対応体系化 <<example>>
+*** [Example] 権限制御一貫性確保・レビューチェックリスト → システム全体セキュリティ向上 <<example>>
+*** [Point] セキュリティリスク早期検知・脆弱性対応体系化・システム全体セキュリティ向上 <<question>>
+
+** [Reason] インフラ・パフォーマンス最適化 <<rule>>
+*** [Example] BugSnag監視→Backlogチケット化 → 本番環境安定性向上 <<example>>
+*** [Example] メモリ使用率改善 → パフォーマンス問題早期解決 <<example>>
+*** [Example] MySQL接続プール競合解決・接続分離設計 → スケーラビリティ改善 <<example>>
+*** [Point] 本番環境安定性・パフォーマンス問題早期解決・スケーラビリティ改善 <<question>>
+
+' --- 凡例 (Legend) ---
+legend right
+  | 色 | PREP要素 | 意味 |
+  | <#F9D058> | **Point（結論）** (黄) | **主張・できること** |
+  | <#80D8FF> | **Reason（理由）** (青) | **強み・スキル** |
+  | <#C1E699> | **Example（具体例）** (緑)| **実績（Context → Action → Result形式）** |
+  | <#FFAB91> | **Point（繰り返し）** (赤)| **Impact・効果** |
+endlegend
+
+@endmindmap
