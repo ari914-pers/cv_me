@@ -36,44 +36,9 @@
 
 ---
 
-## 💪 主要スキル
-
-<details>
-<summary>クリックして展開 - 詳細は JSON Resume (resume.pdf) も参照</summary>
-
-- *フルスタック開発*: React.js/Vue.js/Nuxt.js、Laravel/Golang
-  - Vue 3 Composition API + TypeScript習得済み
-- *インフラ・データベース最適化*: Docker、AWS（ECS/S3/SQS/RDS）
-  - MySQL接続プール競合問題の分析・解決でスケーラビリティ向上
-- *問題分析・要件分析*: 4層根本原因分析、要件構造化
-  - 1,400行仕様書→8個ノート作成で複雑要件を管理可能に
-- *セキュリティ・監視*: Trivy/BugSnag/Laravel Telescope活用
-  - 継続的なセキュリティ・パフォーマンス監視、脆弱性対応の体系化
-- *開発ツール・プロセス改善*: Git/Backlog/Slack活用
-  - 約470件のBacklogチケット作成でチーム保守性向上
-
-</details>
-
----
-
-## 💼 経歴
-
-<details>
-<summary>クリックして展開 - 詳細は JSON Resume (resume.pdf) も参照</summary>
-
-- 約4年間の受託開発経験（2021年4月〜）。フルスタック開発者として、フロントエンド（React.js、Vue.js、Nuxt.js）、バックエンド（Laravel、Golang）で6つのプロジェクトを担当
-- 2024年以降は大規模SaaSプロジェクトでコードレビュー・DevOps・セキュリティ改善を担当。オフショア開発チームとの協業経験有り（ブリッジSE、要件定義の約8割のチケットを作成）
-
-</details>
-
----
-
 ## 💪 できること
 
 ![できること - 4つの強み](./diagrams/dekiru-koto-mindmap.svg)
-
-<details>
-<summary>詳細を見る</summary>
 
 <!--
   UX原則: User-Centered Headings - ユーザー（面接官）の疑問に直接答える見出し
@@ -126,16 +91,11 @@
 
 **Impact**: 本番環境の安定性向上、パフォーマンス問題の早期解決、システム全体のスケーラビリティ改善
 
-</details>
-
 ---
 
 ## 💡 仕事の進め方
 
 ![仕事の進め方 - 3つの方法論](./diagrams/shigoto-susume-kata-mindmap.svg)
-
-<details>
-<summary>詳細を見る</summary>
 
 <!--
   UX原則: Grouping - 関連トピックを論理的なセクションにグループ化
@@ -172,7 +132,27 @@
 
 - デュアルバックエンド不具合の失敗を徹底分析し、4フェーズの改善レビューワークフローを策定
 
-</details>
+---
+
+## 💪 主要スキル
+
+- *フルスタック開発*: React.js/Vue.js/Nuxt.js、Laravel/Golang
+  - Vue 3 Composition API + TypeScript習得済み
+- *インフラ・データベース最適化*: Docker、AWS（ECS/S3/SQS/RDS）
+  - MySQL接続プール競合問題の分析・解決でスケーラビリティ向上
+- *問題分析・要件分析*: 4層根本原因分析、要件構造化
+  - 1,400行仕様書→8個ノート作成で複雑要件を管理可能に
+- *セキュリティ・監視*: Trivy/BugSnag/Laravel Telescope活用
+  - 継続的なセキュリティ・パフォーマンス監視、脆弱性対応の体系化
+- *開発ツール・プロセス改善*: Git/Backlog/Slack活用
+  - 約470件のBacklogチケット作成でチーム保守性向上
+
+---
+
+## 💼 経歴
+
+- 約4年間の受託開発経験（2021年4月〜）。フルスタック開発者として、フロントエンド（React.js、Vue.js、Nuxt.js）、バックエンド（Laravel、Golang）で6つのプロジェクトを担当
+- 2024年以降は大規模SaaSプロジェクトでコードレビュー・DevOps・セキュリティ改善を担当。オフショア開発チームとの協業経験有り（ブリッジSE、要件定義の約8割のチケットを作成）
 
 ---
 
@@ -220,7 +200,7 @@
   出典: Apple Human Interface Guidelines (Layout - Progressive Disclosure)
 -->
 
-- [JSON Resume](../resume.pdf) - 詳細な経歴・プロジェクト経験
+- [JSON Resume](./resume.pdf) - 詳細な経歴・プロジェクト経験
 - [Wantedly Profile](https://www.wantedly.com/id/ariga914) - プロフィール
 
 <!-- TODO: GitHubのusernameが分かったらリンクを追加 -->
