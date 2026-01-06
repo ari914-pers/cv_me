@@ -32,7 +32,7 @@
   出典: Coda Technical Writing Style Guide (Managing/placing help docs)
 -->
 
-詳細な経歴・プロジェクト経験は [JSON Resume](./resume-public.pdf) をご覧ください。
+詳細な経歴・プロジェクト経験は [経歴書PDF](./resume-public.pdf) をご覧ください。
 
 ---
 
