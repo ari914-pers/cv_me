@@ -32,6 +32,8 @@ mindmapDiagram {
 
 * [Point] 💡 仕事の進め方 <<story>>
 
+left side
+
 ** [Reason] 要件を分析し、\\n段階的に計画する <<rule>>
 *** [Example] 1,400行仕様書→8ノート → 扱いやすい単位に分解 <<example>>
 *** [Example] 5フェーズ実装計画策定 → 段階的な実装計画 <<example>>
@@ -44,11 +46,19 @@ mindmapDiagram {
 *** [Example] PDF番号不整合問題の再発防止策策定 → システム的解決 <<example>>
 *** [Point] 根本原因を特定し、再発防止を実現 <<question>>
 
+right side
+
 ** [Reason] 失敗から学び、\\n継続的に改善する <<rule>>
 *** [Example] デュアルバックエンド不具合を徹底分析 → 詳細な失敗分析 <<example>>
 *** [Example] チェックリスト更新・ワークフロー改善 → 4フェーズ改善レビュー <<example>>
 *** [Example] 測定可能なKPI設定・効果検証 → 継続的改善サイクル <<example>>
 *** [Point] 失敗を糧に品質とプロセスを継続的に向上 <<question>>
+
+** [Reason] 自分がボトルネックに\\nならないよう意識する <<rule>>
+*** [Example] その日のうちにボールを持ち続けない → 早めに動く <<example>>
+*** [Example] 期日厳守・難しい場合は早めに相談 → 事前に相談する <<example>>
+*** [Example] 必要に応じて残業も厭わず対応 → チームの進行を妨げない <<example>>
+*** [Point] チーム全体の進行が滞らず、案件遅延を防ぐ <<question>>
 
 ' --- 凡例 (Legend) ---
 legend right
